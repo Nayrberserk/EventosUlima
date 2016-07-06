@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596939300787",
+    "firebase_url": "https://eventosulima-b8cfe.firebaseio.com",
+    "project_id": "eventosulima-b8cfe",
+    "storage_bucket": "eventosulima-b8cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596939300787:android:256f5385b09d320c",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.eventosulima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596939300787-joq5skv6arkmceiktb0pfi3e47vh4hc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOT_eF5oARdk0XX36awl9rQI31mmhaX9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

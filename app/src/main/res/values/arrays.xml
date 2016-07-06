@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="evento">
+    <item>XII Foro Textil Exportador “Desarrollando la Competitividad de los Sectores Textil y Prendas de Vestir</item>
+    <item>Hackaton REP Ulima</item>
+    </string-array>
+
+    <string-array name="decripcion">
+        <item>El Foro Textil es un punto de encuentro clave para la industria en el que se tocan temas sobre la situación actual del sector y se brindan herramientas para afrontarla por medio de ponencias de especialistas internacionales. Este año, el evento estará enfocado en la moda sostenible. También se premiará a gente de los sectores público y privado que ha impulsado la actividad exportadora de la industria.</item>
+        <item>La Hackatón REP-Ulima es una competencia entre equipos a los que se les encargará diseñar el prototipo de una aplicación web o móvil que responda a la necesidad de mejora de los procesos de negocio para la gestión de la transmisión de energía, considerando los requerimientos definidos por la empresa Red de Energía del Perú S. A. (REP).</item>
+    </string-array>
+
+    <string-array name="decripcion_detalle">
+        <item>Impulsar el desarrollo y crecimiento de las exportaciones peruanas de los sectores textil y prendas de vestir.
+    Brindar herramientas técnicas y estrategias para afrontar la problemática actual de la industria e incrementar la competitividad del sector, enfocándose principalmente en la actividad exportadora.
+    Ofrecer, a través de las conferencias magistrales de especialistas internacionales y representantes empresariales, las mejores herramientas de información de tendencias y políticas comerciales enfocadas en mercados estratégicos para la oferta exportable peruana.</item>
+        <item>Concurso dirigido a estudiantes de todas las carreras de la Universidad de Lima matriculados en el período académico 2016-1, pertenecientes al sexto nivel de estudios en adelante. Los participantes deberán tener conocimiento especializado en al menos una de las siguientes áreas: desarrollo de software, diseño gráfico, publicidad, marketing, comunicación y desarrollo de negocios.</item>
+
+    </string-array>
+
+    <string-array name="ubicacion">
+        <item>Auditorio ZUM</item>
+        <item>Pre-ULIMA</item>
+
+    </string-array>
+
+    <array name="imagen">
+        <item>@drawable/ingindustrialadextextil</item>
+        <item>@drawable/ing_sistemas_hackaton</item>
+
+    </array>
+
+
+</resources>
