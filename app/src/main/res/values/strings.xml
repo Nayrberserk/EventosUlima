@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EventosUlima</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_title">XII Foro Textil Exportador “Desarrollando la Competitividad de los Sectores Textil y Prendas de Vestir</string>
+    <string name="item_desc">El Foro Textil es un punto de encuentro clave para la industria en el que se tocan temas sobre la situación actual del sector y se brindan herramientas para afrontarla por medio de ponencias de especialistas internacionales. Este año, el evento estará enfocado en la moda sostenible. También se premiará a gente de los sectores público y privado que ha impulsado la actividad exportadora de la industria.
+    </string>
+    <string name="detail_desc">Impulsar el desarrollo y crecimiento de las exportaciones peruanas de los sectores textil y prendas de vestir.
+Brindar herramientas técnicas y estrategias para afrontar la problemática actual de la industria e incrementar la competitividad del sector, enfocándose principalmente en la actividad exportadora.
+Ofrecer, a través de las conferencias magistrales de especialistas internacionales y representantes empresariales, las mejores herramientas de información de tendencias y políticas comerciales enfocadas en mercados estratégicos para la oferta exportable peruana.
+    </string>
+    <string name="detail_location">Auditorio ZUM</string>
+</resources>
